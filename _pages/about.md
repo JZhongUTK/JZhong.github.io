@@ -35,7 +35,6 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 
-**2026**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction and Building Materials</div><img src='images/CBM_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -143,8 +142,16 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2026* International Association of Chinese Infrastructure Professionals (IACIP) Outstanding Graduate Student Award
+- *2025* Excellent reviewer for Journal of Road Engineering
+- *2025* Outstanding reviewer for Journal of Transportation Engineering Part B: Pavements
+- *2022* Third prize of Crowdsensing-based Road Damage Detection Challenge
+- *2022* Grand Prize of Huawei ICT Competition Global Final
+- *2020 - 2021* National Scholarship of China
+- *2019* Outstanding Graduates of Chang'an University
+- *2017 - 2018* National Scholarship of China
+- *2015 - 2016* National Endeavor Scholarship of China
 
 <span class='anchor' id='-education-background'></span>
 # 📖 Educations
