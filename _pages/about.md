@@ -176,4 +176,4 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 
 <span class='anchor' id='-professional-services'></span>
 # 🛣️ Professional Services
-- **Journal Reviewer (Selected)**: *Engineering Application of Artificial Intelligence*; *Measurement*; *IEEE Transactions on Intelligent Transportation Systems*;*IEEE Transactions on Automation Science and Engineering*; *IEEE Transactions on Industrial Informatics*; *Journal of Transportation Engineering, Part B: Pavements*; *Structures*; *Journal of Materials in Civil Engineering*; *Journal of Cleaner Production*; *Journal of Road Engineering*.
+- **Journal Reviewer (Selected)**: *Engineering Application of Artificial Intelligence*; *Measurement*; *IEEE Transactions on Intelligent Transportation Systems*; *IEEE Transactions on Automation Science and Engineering*; *IEEE Transactions on Industrial Informatics*; *Journal of Transportation Engineering, Part B: Pavements*; *Structures*; *Journal of Materials in Civil Engineering*; *Journal of Cleaner Production*; *Journal of Road Engineering*.
