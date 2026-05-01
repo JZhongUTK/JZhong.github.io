@@ -28,6 +28,11 @@ My research interests include:
 
 I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> ( <a href='https://scholar.google.com/citations?user=tyoTVZgAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+<span class='anchor' id='-educations'></span>
+# 📖 Educations
+- *2022.08 - 2026.05*, Ph.D., University of Tennessee, Knoxville, Tennessee, USA.
+- *2019.08 - 2022.06*, M.S., Southeast University, Nanjing, Jiangsu, China. 
+- *2015.09 - 2019.06*, B.S., Chang'an University, Xi'an, Shaanxi, China. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -168,11 +173,6 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 - *2017 - 2018* National Scholarship of China
 - *2015 - 2016* National Endeavor Scholarship of China
 
-<span class='anchor' id='-educations'></span>
-# 📖 Educations
-- *2022.08 - 2026.05*, Ph.D., University of Tennessee, Knoxville, Tennessee, USA.
-- *2019.08 - 2022.06*, M.S., Southeast University, Nanjing, Jiangsu, China. 
-- *2015.09 - 2019.06*, B.S., Chang'an University, Xi'an, Shaanxi, China. 
 
 <span class='anchor' id='-professional-services'></span>
 # 🛣️ Professional Services
