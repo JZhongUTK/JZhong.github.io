@@ -32,6 +32,9 @@ My research interests include:
 - *2019.08 - 2022.06*, M.S., Southeast University, Nanjing, Jiangsu, China. 
 - *2015.08 - 2019.06*, B.S., Chang'an University, Xi'an, Shaanxi, China. 
 
+# 🔥 News
+- *2025.05*: &nbsp;🎉🎉 [Recycling asphalt pavement can help the environment − now scientists are putting the safety of recycled pavement to the test](https://theconversation.com/recycling-asphalt-pavement-can-help-the-environment-now-scientists-are-putting-the-safety-of-recycled-pavement-to-the-test-252348) 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction and Building Materials</div><img src='images/CBM_2026.png' alt="sym" width="100%"></div></div>
