@@ -49,7 +49,7 @@ Jingtao Zhong, Christian Sabillon-Orellana, Miaomiao Zhang, Yuetan Ma, Xi Jiang,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/CBM_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/TRR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Traffic Input for Mechanistic-Empirical Pavement Design in Tennessee](https://journals.sagepub.com/doi/full/10.1177/03611981251366257)
@@ -62,24 +62,85 @@ Jingtao Zhong, Yangsong Gu, Kai Huang, Yuetan Ma, Xiaoyang Jia, Lee D. Han, **Ba
 </div>
 
 
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Measurement</div><img src='images/measurement.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Texture-image coupled fusion analysis for pavement skid resistance measurement](https://www.sciencedirect.com/science/article/pii/S0263224125016318)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jingtao Zhong, Jingyu Zhang, Zhiqiang Cheng, Shengjia Xie, Kai Huang, Yuetan Ma, **Baoshan Huang***.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Topic**
+- Data Fusion for Pavement Friction Prediction
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Case Studies in Construction Materials</div><img src='images/Case Studies.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Comprehensive evaluation framework for long-term pavement skid resistance and texture evolution](https://www.sciencedirect.com/science/article/pii/S2214509525012720)
+
+Jingtao Zhong, Xi Jiang, Zhiqiang Cheng, Shengjia Xie, Kai Huang, Yuetan Ma, **Baoshan Huang***.
+
+**Topic**
+- Friction-Oriented Pavement Friction Design
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction and Building Materials</div><img src='images/CRP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An investigation of texture-friction relationship with laboratory ring-shaped asphalt mixture specimens via close-range photogrammetry](https://www.sciencedirect.com/science/article/pii/S0950061824026503)
+
+Jingtao Zhong, Jing Zhang, Kai Huang, Phillip Blankenship, Yuetan Ma, Rui Xiao, **Baoshan Huang***.
+
+**Topic**
+- Ring-shaped Pavement Friction Investigation
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Intelligent Transportation Systems</div><img src='images/ITS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Pavement Crack Translator for Data Augmentation and Pixel-Level Detection Based on Weakly Supervised Learning](https://ieeexplore.ieee.org/abstract/document/10557475/)
+
+Jingtao Zhong, Yuetan Ma, Miaomiao Zhang, Rui Xiao, Guantao Cheng, **Baoshan Huang***.
+
+**Topic**
+- Pavement Crack Image Generation via Weakly-supervised Learning
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering Applications of Artificial Intelligence</div><img src='images/EAAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A deeper generative adversarial network for grooved cement concrete pavement crack detection](https://www.sciencedirect.com/science/article/pii/S0952197622007989)
+
+Jingtao Zhong, Ju Huyan, **Weiguang Zhang***, Hanglin Cheng, Jing Zhang, Zheng Tong, Xi Jiang, Baoshan Huang.
+
+**Topic**
+- Pavement Crack Image Generation
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/AIC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-scale feature fusion network for pixel-level pavement distress detection](https://www.sciencedirect.com/science/article/pii/S0926580522003090)
+
+Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
+
+**Topic**
+- Pavement Distress using Unmanned Aerial Vehicle
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
