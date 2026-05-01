@@ -138,8 +138,15 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 </div>
 </div>
 
+# 🗺️ Conference and Workshops
 
-
+- *Mar 2026* Zhong, J., Comprehensive evaluation framework for long-term pavement skid resistance and texture evolution, 102nd AAPT, Boston, USA (Poster Presentation).
+- *Jan 2026* Zhong, J., Improving Preventive Maintenance Decision-Making for Pavement Friction Restoration Using Long-Term Pavement Performance Data and Explainable Machine Learning, 105th Transportation Research Board (TRB) Annual Meeting, Washington, D.C., USA (Poster Presentation).
+- *Oct 2025* Zhong, J., Texture-Image coupled fusion analysis for pavement skid resistance measurement, Academy of Pavement Science and Engineering (APSE) Ph.D. Students Webinar.
+- *June 2025* Zhong, J., Texture-Image coupled fusion analysis for pavement skid resistance measurement, 11th International European Asphalt Technology Association (EATA) conference, Ancona, Italy (Poster Presentation).
+- *Jan 2025* Zhong, J., Developing the traffic input for Mechanistic-Empirical pavement design: a case study in Tennessee, 104th Transportation Research Board (TRB) Annual Meeting, Washington, D.C., USA (Oral Presentation).
+- *Sep 2024* Zhong, J., An investigation of texture-friction relationship with laboratory ring-shaped asphalt mixture specimens via close-range photogrammetry, 100th AAPT, Chicago, USA (Poster Presentation).
+- *Jan 2023* Zhong, J., A deeper generative adversarial network for pavement crack detection, 102nd Transportation Research Board (TRB) Annual Meeting, Washington, D.C., USA (Poster Presentation).
 
 # 🎖 Honors and Awards
 
@@ -159,7 +166,14 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 - *2019.08 - 2022.06*, M.S., Southeast University, Nanjing, Jiangsu, China. 
 - *2015.09 - 2019.06*, B.S., Chang'an University, Xi'an, Shaanxi, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+# 🛣️ Professional Services
+- **Journal Reviewer (Selected)**: Engineering Application of Artificial Intelligence, Elsevier
+•Measurement, Elsevier
+•IEEE Transactions on Intelligent Transportation Systems, IEEE
+•Journal of Transportation Engineering, Part B: Pavements, ASCE
+•IEEE Transactions on Automation Science and Engineering, IEEE
+•Structures, Elsevier
+•IEEE Transactions on Industrial Informatics, IEEE
+•Journal of Materials in Civil Engineering, ASCE
+•Journal of Cleaner Production, Elsevier
+•Journal of Road Engineering, Elsevier
