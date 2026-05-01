@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research focuses on understanding and predicting pavement performance through the integration of field data, surface characterization, and data-driven methods.
+My research focuses on advancing intelligent and sustainable infrastructure systems through the integration of field-scale data, physics-based modeling, and data-driven methods. I develop unified and scalable frameworks that connect sensing, material behavior, and system-level performance, enabling accurate prediction of infrastructure condition, reliability, and long-term serviceability. 
 
-My research interests include:
-- Pavement friction and surface texture characterization
-- Machine learning and explainable AI for infrastructure systems
-- Data-driven pavement performance modeling and prediction
-- Sustainable and recycled pavement materials
+I am particularly interested in developing next-generation infrastructure systems that are intelligent, explainable, and sustainable, with applications in digital infrastructure monitoring, performance-based design, and resilient, low-carbon infrastructure systems.
+
+My research spans three interconnected areas:
+- AI-enabled sensing and automated condition assessment for infrastructure systems  
+- Physics-informed, multi-scale modeling of material and surface behaviors governing performance and safety  
+- Data-driven prediction and decision support for infrastructure management, optimization, and resilience  
 
 
 <span class='anchor' id='-educations'></span>
@@ -32,6 +33,7 @@ My research interests include:
 - *2019.08 - 2022.06*, M.S., Southeast University, Nanjing, Jiangsu, China. 
 - *2015.08 - 2019.06*, B.S., Chang'an University, Xi'an, Shaanxi, China. 
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 [Recycling asphalt pavement can help the environment − now scientists are putting the safety of recycled pavement to the test](https://theconversation.com/recycling-asphalt-pavement-can-help-the-environment-now-scientists-are-putting-the-safety-of-recycled-pavement-to-the-test-252348) 
 
