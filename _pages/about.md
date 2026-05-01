@@ -54,9 +54,9 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.06 - 2026.05*, University of Tennessee, Knoxville, Tennessee, USA.
-- *2019.08 - 2022.06*, Southeast University, Nanjing, Jiangsu, China. 
-- *2015.09 - 2019.06*, Chang'an University, Xi'an, Shaanxi, China. 
+- *2022.06 - 2026.05*, Ph.D., University of Tennessee, Knoxville, Tennessee, USA.
+- *2019.08 - 2022.06*, M.S., Southeast University, Nanjing, Jiangsu, China. 
+- *2015.09 - 2019.06*, B.S., Chang'an University, Xi'an, Shaanxi, China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
