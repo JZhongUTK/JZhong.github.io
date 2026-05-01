@@ -166,7 +166,7 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 - *2017 - 2018* National Scholarship of China
 - *2015 - 2016* National Endeavor Scholarship of China
 
-<span class='anchor' id='educations'></span>
+<span id='educations'></span>
 # 📖 Educations
 - *2022.06 - 2026.05*, Ph.D., University of Tennessee, Knoxville, Tennessee, USA.
 - *2019.08 - 2022.06*, M.S., Southeast University, Nanjing, Jiangsu, China. 
