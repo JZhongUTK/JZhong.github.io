@@ -49,6 +49,20 @@ Jingtao Zhong, Christian Sabillon-Orellana, Miaomiao Zhang, Yuetan Ma, Xi Jiang,
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/CBM_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Traffic Input for Mechanistic-Empirical Pavement Design in Tennessee](https://journals.sagepub.com/doi/full/10.1177/03611981251366257)
+
+Jingtao Zhong, Yangsong Gu, Kai Huang, Yuetan Ma, Xiaoyang Jia, Lee D. Han, **Baoshan Huang***.
+
+**Topic**
+- Mechanistical-Empirical Pavement Design
+</div>
+</div>
+
+
+
 
 
 
