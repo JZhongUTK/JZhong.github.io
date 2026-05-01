@@ -35,6 +35,24 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Publications 
 
+**2026**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction and Building Materials</div><img src='images/TransGeo_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving preventive maintenance strategies for enhanced pavement friction restoration performance via explainable machine learning](https://www.sciencedirect.com/science/article/abs/pii/S0950061826004721)
+
+Jingtao Zhong, Christian Sabillon-Orellana, Miaomiao Zhang, Yuetan Ma, Xi Jiang, **Baoshan Huang***.
+
+**Topic**
+- Infrastructure Adaptive Renewal
+</div>
+</div>
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,5 +80,3 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
