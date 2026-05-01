@@ -26,8 +26,6 @@ My research interests include:
 - Sustainable and recycled pavement materials
 
 
-I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> ( <a href='https://scholar.google.com/citations?user=tyoTVZgAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2022.08 - 2026.05*, Ph.D., University of Tennessee, Knoxville, Tennessee, USA.
