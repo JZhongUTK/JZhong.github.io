@@ -32,7 +32,7 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📖 Educations
 - *2022.08 - 2026.05*, Ph.D., University of Tennessee, Knoxville, Tennessee, USA.
 - *2019.08 - 2022.06*, M.S., Southeast University, Nanjing, Jiangsu, China. 
-- *2015.09 - 2019.06*, B.S., Chang'an University, Xi'an, Shaanxi, China. 
+- *2015.08 - 2019.06*, B.S., Chang'an University, Xi'an, Shaanxi, China. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
