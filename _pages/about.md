@@ -148,7 +148,13 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 - *Sep 2024* Zhong, J., An investigation of texture-friction relationship with laboratory ring-shaped asphalt mixture specimens via close-range photogrammetry, 100th AAPT, Chicago, USA (Poster Presentation).
 - *Jan 2023* Zhong, J., A deeper generative adversarial network for pavement crack detection, 102nd Transportation Research Board (TRB) Annual Meeting, Washington, D.C., USA (Poster Presentation).
 
-# 🎖 Honors and Awards
+
+# 📚 Patents
+- 1.Zhang, W., **Zhong, J.**, Cheng, H., Zhang, J., Ma, T., Huyan, J., Zhu, J. A method for removing water film from airport pavement distress images, Authorized, CN114663386B.
+- 2.Ma, T., **Zhong, J.**, Zhu, J., Zhang, W., Huyan, J., Zhang, J. An interactive intelligent annotation method for pavement crack images, Authorized, CN114022675A.
+- 3.Ma, T., **Zhong, J.**, Zhu, J., Han, C., Zhang, W. Automatic pavement crack detection based on UAV images, Authorized, CN113312987B.
+
+# 🏆 Honors and Awards
 
 - *2026* International Association of Chinese Infrastructure Professionals (IACIP) Outstanding Graduate Student Award
 - *2025* Excellent reviewer for Journal of Road Engineering
@@ -167,13 +173,4 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 - *2015.09 - 2019.06*, B.S., Chang'an University, Xi'an, Shaanxi, China. 
 
 # 🛣️ Professional Services
-- **Journal Reviewer (Selected)**: Engineering Application of Artificial Intelligence, Elsevier
-•Measurement, Elsevier
-•IEEE Transactions on Intelligent Transportation Systems, IEEE
-•Journal of Transportation Engineering, Part B: Pavements, ASCE
-•IEEE Transactions on Automation Science and Engineering, IEEE
-•Structures, Elsevier
-•IEEE Transactions on Industrial Informatics, IEEE
-•Journal of Materials in Civil Engineering, ASCE
-•Journal of Cleaner Production, Elsevier
-•Journal of Road Engineering, Elsevier
+- **Journal Reviewer (Selected)**: Engineering Application of Artificial Intelligence; Measurement; IEEE Transactions on Intelligent Transportation Systems; Journal of Transportation Engineering, Part B: Pavements; IEEE Transactions on Automation Science and Engineering; Structures; IEEE Transactions on Industrial Informatics; Journal of Materials in Civil Engineering; Journal of Cleaner Production; Journal of Road Engineering.
