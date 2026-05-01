@@ -44,7 +44,7 @@ I have published more than 100 papers at the top international AI conferences wi
 Jingtao Zhong, Christian Sabillon-Orellana, Miaomiao Zhang, Yuetan Ma, Xi Jiang, **Baoshan Huang***.
 
 **Topic**
-- Infrastructure Adaptive Renewal
+- Pavement Maintenance Evaluation; Explainable Machine Learning
 </div>
 </div>
 
