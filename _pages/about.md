@@ -36,7 +36,7 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📝 Publications 
 
 **2026**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction and Building Materials</div><img src='images/TransGeo_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction and Building Materials</div><img src='images/CBM_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving preventive maintenance strategies for enhanced pavement friction restoration performance via explainable machine learning](https://www.sciencedirect.com/science/article/abs/pii/S0950061826004721)
