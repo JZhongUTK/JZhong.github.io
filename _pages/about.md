@@ -138,6 +138,7 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 </div>
 </div>
 
+<span class='anchor' id='-conference-and-workshops'></span>
 # 🗺️ Conference and Workshops
 
 - *Mar 2026* Zhong, J., Comprehensive evaluation framework for long-term pavement skid resistance and texture evolution, 102nd AAPT, Boston, USA (Poster Presentation).
@@ -148,12 +149,13 @@ Jingtao Zhong, **Junqing Zhu***, Ju Huyan, Tao Ma, Weiguang Zhang.
 - *Sep 2024* Zhong, J., An investigation of texture-friction relationship with laboratory ring-shaped asphalt mixture specimens via close-range photogrammetry, 100th AAPT, Chicago, USA (Poster Presentation).
 - *Jan 2023* Zhong, J., A deeper generative adversarial network for pavement crack detection, 102nd Transportation Research Board (TRB) Annual Meeting, Washington, D.C., USA (Poster Presentation).
 
-
+<span class='anchor' id='-patents'></span>
 # 📚 Patents
 - 1.Zhang, W., **Zhong, J.**, Cheng, H., Zhang, J., Ma, T., Huyan, J., Zhu, J. A method for removing water film from airport pavement distress images, Authorized, CN114663386B.
 - 2.Ma, T., **Zhong, J.**, Zhu, J., Zhang, W., Huyan, J., Zhang, J. An interactive intelligent annotation method for pavement crack images, Authorized, CN114022675A.
 - 3.Ma, T., **Zhong, J.**, Zhu, J., Han, C., Zhang, W. Automatic pavement crack detection based on UAV images, Authorized, CN113312987B.
 
+<span class='anchor' id='-honors-and-awards'></span>
 # 🏆 Honors and Awards
 
 - *2026* International Association of Chinese Infrastructure Professionals (IACIP) Outstanding Graduate Student Award
